@@ -5,3 +5,9 @@ font-size: 14px;}
 nav{background-color:orange}
 a{color: red;
 font-size: xx-large;}
+.button{height: 5%;
+width: 60%;
+margin-left: 20%;
+background-color: rgb(0, 255, 26);
+color:rgb(72, 0, 255);
+text-align: center;}
